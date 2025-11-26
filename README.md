@@ -35,6 +35,7 @@ O usuário pode gerar missões, interagir com outras pessoas, acompanhar seu pro
 └── README.md
 
 ---
+![Preview do site](https://github.com/wrldleozin/missoes/blob/main/Foto.PNG?raw=true)
 
 
 
