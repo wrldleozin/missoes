@@ -25,7 +25,7 @@ O usuário pode gerar missões, interagir com outras pessoas, acompanhar seu pro
 
 ---
 
-
+```
 ## 📂 Estrutura do Projeto
 ├── css/
 ├── imgs/
@@ -34,7 +34,7 @@ O usuário pode gerar missões, interagir com outras pessoas, acompanhar seu pro
 ├── php/
 ├── index.php
 └── README.md
-
+```
 ---
 
 ![Preview do site](https://github.com/wrldleozin/missoes/blob/main/Foto.PNG?raw=true)
