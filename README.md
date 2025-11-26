@@ -46,7 +46,9 @@ O usuário pode gerar missões, interagir com outras pessoas, acompanhar seu pro
 
 
 ---
-[![Vídeo de demonstração](https://img.youtube.com/vi/lGxSvQMkLkw/0.jpg)](https://youtu.be/lGxSvQMkLkw "Clique para assistir")
+## Video de Demonstração do Site ->
+[![Assista ao vídeo](https://img.youtube.com/vi/lGxSvQMkLkw/maxresdefault.jpg)](https://youtu.be/lGxSvQMkLkw)
+
 
 ---
 
