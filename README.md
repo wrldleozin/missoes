@@ -20,10 +20,11 @@ O usuário pode gerar missões, interagir com outras pessoas, acompanhar seu pro
 - **HTML5**
 - **CSS3**
 - **PHP**
-- **MySQL** *(se tiver usado banco)*
+- **MySQL** 
 - **Git & GitHub**
 
 ---
+
 
 ## 📂 Estrutura do Projeto
 ├── css/
@@ -35,8 +36,12 @@ O usuário pode gerar missões, interagir com outras pessoas, acompanhar seu pro
 └── README.md
 
 ---
+
 ![Preview do site](https://github.com/wrldleozin/missoes/blob/main/Foto.PNG?raw=true)
 
+![Página do Mural do site](https://github.com/wrldleozin/missoes/blob/main/imgs/FotoMural.PNG?raw=true) 
+
+![Página do Perfil do site](https://github.com/wrldleozin/missoes/blob/main/imgs/FotoPerfil.PNG?raw=true) 
 
 
 
