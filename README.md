@@ -1,2 +1,52 @@
-# missoes
-Plataforma de missões diárias voltada para promover hábitos positivos através de pequenas ações. O objetivo é transformar atitudes simples em impacto real, incentivando o bem-estar, a gentileza e o desenvolvimento pessoal de forma leve e divertida.
+# 🌟 Missões do Dia
+
+O **Missões do Dia** é uma plataforma criada para incentivar hábitos positivos através de pequenas ações diárias.  
+O usuário pode gerar missões, interagir com outras pessoas, acompanhar seu progresso e participar de um mural comunitário.
+
+---
+
+## 🚀 Funcionalidades
+
+- ✔️ **Gere missões positivas diariamente**
+- ✔️ **Publique e compartilhe a missão do dia**
+- ✔️ **Reaja às missões de outros usuários (curtir/descurtir)**
+- ✔️ **Acompanhe seu histórico e progresso**
+- ✔️ **Interface moderna, leve e responsiva**
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **PHP**
+- **MySQL** *(se tiver usado banco)*
+- **Git & GitHub**
+
+---
+
+## 📂 Estrutura do Projeto
+├── css/
+├── imgs/
+├── missoes/
+├── pages/
+├── php/
+├── index.php
+└── README.md
+
+---
+
+
+
+
+---
+
+
+## 👤 Autor
+
+**Leonardo Hernandes Juliano Trovo** 
+**João Victor Pereira Silva**  
+*Desenvolvimento de Sistemas*  
+GitHub: https://github.com/**wrldleozin**
+
+---
