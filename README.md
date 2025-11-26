@@ -50,9 +50,9 @@ O usuário pode gerar missões, interagir com outras pessoas, acompanhar seu pro
 
 ## 👤 Autor
 
-**Leonardo Hernandes Juliano Trovo** 
-**João Victor Pereira Silva**  
+- **Leonardo Hernandes Juliano Trovo** 
+- **João Victor Pereira Silva**  
 *Desenvolvimento de Sistemas*  
-GitHub: https://github.com/**wrldleozin**
+GitHub: **https://github.com/wrldleozin**
 
 ---
